@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 
 # Hello, I'm Jiabing Yang! 👋
 
-🌐 Visit my [personal website](http://www.ayue.wang) for more about my work and projects and contact me
+🌐 Visit my [personal website](http://www.ayue.wang) for more about my work and projects and contact me here~
 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/jiabingyang01)
+[![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:yangjiabing0405@163.com)
+[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jiabingyang01@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 ## About Me 📌
 
 - 🔭 An **undergraduated student** majoring in Artificial Intelligence at Yingcai Honors College, University of Electronic Science and Technology of China.
@@ -27,10 +31,6 @@ Here are some ideas to get you started:
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
 
-## Connect with Me 🌐
-
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/jiabingyang01)
-- [![Personal Website](https://img.shields.io/badge/Personal_Website-ayue's_Portfolio-blue?style=flat&logo=react&logoColor=white)](http://www.ayue.wang)
 
 ## My Skills 🛠️
 
@@ -43,23 +43,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 
 ## 📈 My GitHub Statistics
 
-🔭 I have worked on over **10** projects on GitHub.
-
-#### My Github Stats 📊
-
-![ayueaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiabingyang01&show_icons=true&theme=tokyonight&count_private=true)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api?username=jiabingyang01&count_private=true&show_icons=true&theme=tokyonight" height=180/></span>](https://blog.i-xiao.space/)
 
 
-#### My Github Language🧱
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiabingyang01&theme=tokyonight&layout=compact)
-
-
-
-#### My Github Contributions✏️
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jiabingyang01&theme=tokyonight)
 
 
 

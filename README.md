@@ -38,14 +38,14 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 - *Language*
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python) 
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=c)
-  ![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript)
+  ![C](https://img.shields.io/badge/-C-blue?style=plastic&logo=c)
+  ![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
 
 - *Data*
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql)
 - *Others*
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=Linux) 
+![Linux](https://img.shields.io/badge/-Linux-red?style=plastic&logo=Linux) 
 
 ## My GitHub Statistics 📈
 

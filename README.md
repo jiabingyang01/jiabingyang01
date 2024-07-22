@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/jiabingyang01)
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:yangjiabing0405@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:jiabingyang01@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/img/Wechat.jpg)
-[![QQ](https://img.shields.io/badge/QQ-1EBAFC?style=plastic&logo=tencentqq&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/img/QQ.jpg)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01/blob/main/imgs/WeChat.jpg)
+[![QQ](https://img.shields.io/badge/QQ-1EBAFC?style=plastic&logo=tencentqq&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01/blob/main/imgs/QQ.jpg)
 ## About Me 📌
 
 - 🔭 I'm an **undergraduate student** majoring in Artificial Intelligence at [**Yingcai Honors College, University of Electronic Science and Technology of China**](https://www.yingcai.uestc.edu.cn/index.htm).

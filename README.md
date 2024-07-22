@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 🌐 Visit my [academic page](http://www.ayue.wang) for more about my work and projects and contact me here~
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/jiabingyang01)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/jiabingyang01)
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:yangjiabing0405@163.com)
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jiabingyang01@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
+[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:jiabingyang01@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 ## About Me 📌
 
-- 🔭 I'm an **undergraduate student** majoring in Artificial Intelligence at [Yingcai Honors College, University of Electronic Science and Technology of China](https://www.yingcai.uestc.edu.cn/index.htm).
-- 🌱 I’m currently learning **React**
+- 🔭 I'm an **undergraduate student** majoring in Artificial Intelligence at [**Yingcai Honors College, University of Electronic Science and Technology of China**](https://www.yingcai.uestc.edu.cn/index.htm).
+- 🌱 I have a great research interest in **Artificial Intelligence**, especially for **Large Language models**.
 - 👯 I like programming with **ChatGPT**'s assistance
 - 🤔 A **Full-Stack developer** aspirant.
 
@@ -35,7 +35,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 ## My Skills 🛠️
 
 - *Language*
-  ![Skill1](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript) ![Skill3](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c)
 - *Data*
   ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apachespark) ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq) 
 - *Others*
@@ -44,14 +45,3 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 ## My GitHub Statistics 📈
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight" height=190/></span><span><img src="https://github-readme-stats.vercel.app/api?username=jiabingyang01&count_private=true&show_icons=true&theme=tokyonight" height=190/></span>](https://blog.i-xiao.space/)
-
-
-
-
-
-
-
-
-
-
-

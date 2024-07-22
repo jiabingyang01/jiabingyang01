@@ -42,7 +42,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
   ![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
 
 - *Data*
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
 - *Others*
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git) 
 ![Linux](https://img.shields.io/badge/-Linux-red?style=plastic&logo=Linux) 

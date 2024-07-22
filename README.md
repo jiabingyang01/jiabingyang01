@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I like programming with **ChatGPT**'s assistance
 - 🤔 A **Full-Stack developer** aspirant.
 
-- Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
 
 ## Connect with Me 🌐

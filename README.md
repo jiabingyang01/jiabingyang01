@@ -36,7 +36,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 
 ## My Skills 🛠️
 
-- *Language*
+- *Languages*
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python) 
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus)
   ![C](https://img.shields.io/badge/-C-blue?style=plastic&logo=c)

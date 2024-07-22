@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 ## About Me 📌
 
-- 🔭 I'm an **undergraduated student** majoring in Artificial Intelligence at Yingcai Honors College, University of Electronic Science and Technology of China.
+- 🔭 I'm an **undergraduated student** majoring in Artificial Intelligence at [Yingcai Honors College, University of Electronic Science and Technology of China](https://www.yingcai.uestc.edu.cn/index.htm).
 - 🌱 I’m currently learning **React**
 - 👯 I like programming with **ChatGPT**'s assistance
 - 🤔 A **Full-Stack developer** aspirant.

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Jiabing Yang! 👋
 
-🌐 Visit my [academic page](http://www.ayue.wang) for more about my work and projects and contact me here~
+🌐 Visit my [academic page](https://jiabingyang01.github.io/) for more about my work and projects and contact me here~
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/jiabingyang01)
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:yangjiabing0405@163.com)
@@ -57,4 +57,4 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 
 ## My GitHub Statistics 📈
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight" height=190/></span><span><img src="https://github-readme-stats.vercel.app/api?username=jiabingyang01&count_private=true&show_icons=true&theme=tokyonight" height=190/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiabingyang01&layout=compact&theme=tokyonight" height=190/></span><span><img src="https://github-readme-stats.vercel.app/api?username=jiabingyang01&count_private=true&show_icons=true&theme=tokyonight" height=190/></span>](https://blog.i-xiao.space/)

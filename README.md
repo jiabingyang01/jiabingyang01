@@ -41,7 +41,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 - *Others*
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux) 
 
-## 📈 My GitHub Statistics
+## My GitHub Statistics 📈
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight" height=200/></span><span><img src="https://github-readme-stats.vercel.app/api?username=jiabingyang01&count_private=true&show_icons=true&theme=tokyonight" height=200/></span>](https://blog.i-xiao.space/)
 

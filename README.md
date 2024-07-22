@@ -34,9 +34,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 
 ## My Skills 🛠️
 
-- *Language*
+- **Language**
   ![Skill1](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript) ![Skill3](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
-- *Data*
+- **Data**
   ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apachespark) ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq) 
 - *Others*
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux) 

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Connect with Me 🌐
 
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ayueaa)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/jiabingyang01)
 - [![Personal Website](https://img.shields.io/badge/Personal_Website-ayue's_Portfolio-blue?style=flat&logo=react&logoColor=white)](http://www.ayue.wang)
 
 ## My Skills 🛠️

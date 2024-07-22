@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me 📌
 
-- 🔭 A **Python Backend Engineer** with Flask & FastAPI & Django & Scrapy
+- 🔭 An **undergraduated student** majoring in Artificial Intelligence at Yingcai Honors College, University of Electronic Science and Technology of China.
 - 🌱 I’m currently learning **React**
 - 👯 I like programming with **ChatGPT**'s assistance
 - 🤔 A **Full-Stack developer** aspirant.

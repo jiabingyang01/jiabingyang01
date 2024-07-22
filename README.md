@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-# Hello, I'm jiabingyang01! 👋
+# Hello, I'm Jiabing Yang! 👋
 
 🌐 Visit my [personal website](http://www.ayue.wang) for more about my work and projects and contact me
 

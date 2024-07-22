@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/jiabingyang01)
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:yangjiabing0405@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:jiabingyang01@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
-[![QQ](https://img.shields.io/badge/QQ-1EBAFC?style=plastic&logo=tencentqq&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/img/Wechat.jpg)
+[![QQ](https://img.shields.io/badge/QQ-1EBAFC?style=plastic&logo=tencentqq&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/img/QQ.jpg)
 ## About Me 📌
 
 - 🔭 I'm an **undergraduate student** majoring in Artificial Intelligence at [**Yingcai Honors College, University of Electronic Science and Technology of China**](https://www.yingcai.uestc.edu.cn/index.htm).
 - 🌱 I have a great research interest in **Artificial Intelligence**, especially for **Large Language Models**.
 - 👯 I'm looking to collaborate on **Large Language Models**, like **Multimodal**, **alignment**, **Agents** and so on.
-- ⚡ Fun fact: I love **playing basketball** and **fitness**.
+- ⚡ Hobbies: I love **playing basketball** and **fitness**.
 - 🚀 Aspire to become an **AI Scientist**.
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉

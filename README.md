@@ -36,10 +36,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 
 - *Language*
   ![Skill1](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript) ![Skill3](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
-- *Backend*
-  ![Skill1](https://img.shields.io/badge/-fastapi-333333?style=flat&logo=fastapi)  ![Skill2](https://img.shields.io/badge/-flask-333333?style=flat&logo=flask) ![Skill3](https://img.shields.io/badge/-django-333333?style=flat&logo=django) ![Skill3](https://img.shields.io/badge/-scrapy-333333?style=flat&logo=scrapy) ![Skill3](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium) ![Skill3](https://img.shields.io/badge/-streamlit-333333?style=flat&logo=streamlit)
-- *Frontend*
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios) ![AntDesign](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=antDesign) ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript) ![i18Next](https://img.shields.io/badge/-i18Next-333333?style=flat&logo=i18Next) ![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss) 
 - *Data*
   ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apachespark) ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq) 
 - *Others*

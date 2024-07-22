@@ -57,4 +57,4 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
 
 ## My GitHub Statistics 📈
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiabingyang01&layout=compact&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api?username=jiabingyang01&count_private=true&show_icons=true&theme=tokyonight" height=180/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiabingyang01&layout=compact&theme=tokyonight" height=170/></span><span><img src="https://github-readme-stats.vercel.app/api?username=jiabingyang01&count_private=true&show_icons=true&theme=tokyonight" height=170/></span>](https://blog.i-xiao.space/)

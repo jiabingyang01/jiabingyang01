@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 ## About Me 📌
 
 - 🔭 I'm an **undergraduate student** majoring in Artificial Intelligence at [**Yingcai Honors College, University of Electronic Science and Technology of China**](https://www.yingcai.uestc.edu.cn/index.htm).
-- 🌱 I have a great research interest in **Artificial Intelligence**, especially for **Large Language models**.
-- 👯 I like programming with **ChatGPT**'s assistance
-- 🤔 A **Full-Stack developer** aspirant.
+- 🌱 I have a great research interest in **Artificial Intelligence**, especially for **Large Language Models**.
+- 👯 I'm looking to collaborate on **Large Language Models**, like **Multimodal**, **alignment**, **Agents** and so on.
+- ⚡ Fun fact: I love **playing basketball** and **fitness**.
+- 🚀 Aspire to become an **AI Scientist**.
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
@@ -40,12 +41,19 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingy
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus)
   ![C](https://img.shields.io/badge/-C-blue?style=plastic&logo=c)
   ![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
+  ![verilog](https://img.shields.io/badge/-Verilog-9C005E?style=plastic&logo=verilog)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=plastic&logo=markdown)
+  ![Latex](https://img.shields.io/badge/-Latex-008080?style=plastic&logo=latex)
 
-- *Data*
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
-- *Others*
+
+- *tools*
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Pycharm](https://img.shields.io/badge/-PyCharm-000000?style=plastic&logo=pycharm)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF2A68?style=plastic&logo=matlab)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git) 
-![Linux](https://img.shields.io/badge/-Linux-red?style=plastic&logo=Linux) 
+![Linux](https://img.shields.io/badge/-Linux-F16061?style=plastic&logo=linux&logoColor=000)
+
+
 
 ## My GitHub Statistics 📈
 

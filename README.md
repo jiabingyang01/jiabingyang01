@@ -49,19 +49,19 @@ Here are some ideas to get you started:
 
 #### My Github Stats 📊
 
-![ayueaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayueaa&show_icons=true&theme=tokyonight&count_private=true)
+![ayueaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiabingyang01&show_icons=true&theme=tokyonight&count_private=true)
 
 
 #### My Github Language🧱
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayueaa&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiabingyang01&theme=tokyonight&layout=compact)
 
 
 
 #### My Github Contributions✏️
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayueaa&theme=tokyonight)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jiabingyang01&theme=tokyonight)
 
 
 

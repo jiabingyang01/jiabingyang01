@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I'm an **undergraduate student** majoring in Artificial Intelligence at [**Yingcai Honors College, University of Electronic Science and Technology of China**](https://www.yingcai.uestc.edu.cn/index.htm).
 - 🌱 I have a great research interest in **Artificial Intelligence**, especially for **Large Language Models**.
 - 👯 I'm looking to collaborate on **Large Language Models**, like **Multimodal**, **alignment**, **Agents** and so on.
-- ⚡ Fun fact: I love **playing basketball** and **fitness**.
+- ⚡ Hobbies: I love **playing basketball** and **fitness**.
 - 🚀 Aspire to become an **AI Scientist**.
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm an **undergraduate student** majoring in Artificial Intelligence at [**Yingcai Honors College**](https://www.yingcai.uestc.edu.cn/index.htm) of [**University of Electronic Science and Technology of China**](https://www.uestc.edu.cn/).
 - 🌱 I have a great research interest in **Artificial Intelligence**, especially **Large Language Models**.
-- 👯 I'm looking to collaborate on **Large Language Models**, like **Multimodal**, **alignment**, **Agents** and so on.
+- 👯 I'm looking to collaborate on **Large Language Models**, like **Multimodal**, **alignment**, **Agents**, etc.
 - ⚡ Hobbies: I love **playing basketball** and **fitness**.
 - 🚀 Aspire to become an **AI Scientist**.
 

@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: I love **playing basketball** and **fitness**.
 - 🚀 Aspire to become an **AI Scientist**.
 
-Welcome! You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+Welcome! You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉🎉
 
 
 

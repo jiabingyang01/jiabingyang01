@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-# Hello, I'm Jiabing Yang! 👋
-![](https://komarev.com/ghpvc/?username=jiabingyang01&style=plastic-square)
+# Hello, I'm Jiabing Yang! 👋 ![](https://komarev.com/ghpvc/?username=jiabingyang01&style=plastic-square)
 
 🌐 Visit my [![](https://img.shields.io/badge/Homepage-blue?&style=plastic&logo=googlechrome&logoColor=white)](https://jiabingyang.cn) for more about my work and projects and contact me here~
 

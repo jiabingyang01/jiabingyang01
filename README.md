@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![QQ](https://img.shields.io/badge/QQ-1EBAFC?style=plastic&logo=tencentqq&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01/blob/main/imgs/QQ.jpg)
 ## About Me 📌
 
-- 🔭 I am an incoming first-year PhD student at [School of Artificial Intelligence](https://ai.ucas.ac.cn/index.php/zh-cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and [Institute of Automation, Chinese Academy of Sciences (CASIA)](https://ia.cas.cn/).
-- 🌱 I have a great research interest in **Artificial Intelligence**, especially **Large Language Models**.
-- 👯 I'm looking to collaborate on **Large Language Models**, like **Multimodal**, **alignment**, **Agents**, etc.
+- 🔭 I am an incoming first-year **PhD student** at [School of Artificial Intelligence](https://ai.ucas.ac.cn/index.php/zh-cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and [Institute of Automation, Chinese Academy of Sciences (CASIA)](https://ia.cas.cn/).
+- 🌱 I have a great research interest in **Artificial Intelligence**, especially **LLM, MLLM, Embodied AI**.
+- 👯 I'm looking to collaborate on **Multimodal Alignment**, **Vision-Language-Action (VLA)**, etc.
 - ⚡ Hobbies: I love **playing basketball** and **fitness**.
 - 🚀 Aspire to become an **AI Scientist**.
 

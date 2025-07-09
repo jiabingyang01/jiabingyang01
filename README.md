@@ -14,6 +14,7 @@ Here are some ideas to get you started:
   -->
 
 # Hello, I'm Jiabing Yang! 👋
+![](https://komarev.com/ghpvc/?username=jiabingyang01&style=plastic-square)
 
 🌐 Visit my [![](https://img.shields.io/badge/Homepage-blue?&style=plastic&logo=googlechrome&logoColor=white)](https://jiabingyang.cn) for more about my work and projects and contact me here~
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: I love **playing basketball** and **fitness**.
 - 🚀 Aspire to become an **AI Scientist**.
 
-Welcome! You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉🎉
+<!-- Welcome! You are my [![Visitor Count](https://profile-counter.glitch.me/jiabingyang01/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉🎉 -->
 
 
 

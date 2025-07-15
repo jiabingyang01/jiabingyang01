@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/jiabingyang01)
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:yangjiabing0405@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:jiabingyang01@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01/blob/main/imgs/WeChat.jpg)
-[![QQ](https://img.shields.io/badge/QQ-1EBAFC?style=plastic&logo=tencentqq&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01/blob/main/imgs/QQ.jpg)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01/blob/main/imgs/WeChat.png)
+[![QQ](https://img.shields.io/badge/QQ-1EBAFC?style=plastic&logo=tencentqq&logoColor=white)](https://github.com/jiabingyang01/jiabingyang01/blob/main/imgs/QQ.png)
 ## About Me 📌
 
 - 🔭 I am an incoming first-year **Ph.D. student** at [School of Artificial Intelligence](https://ai.ucas.ac.cn/index.php/zh-cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and [Institute of Automation, Chinese Academy of Sciences (CASIA)](https://ia.cas.cn/).
